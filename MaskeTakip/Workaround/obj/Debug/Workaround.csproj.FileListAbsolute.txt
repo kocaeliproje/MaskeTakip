@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\CSharpEx\MaskeTakip\Workaround\bin\Debug\Workaround.exe.config
+C:\Users\HP\Desktop\CSharpEx\MaskeTakip\Workaround\bin\Debug\Workaround.exe
+C:\Users\HP\Desktop\CSharpEx\MaskeTakip\Workaround\bin\Debug\Workaround.pdb
+C:\Users\HP\Desktop\CSharpEx\MaskeTakip\Workaround\obj\Debug\Workaround.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CSharpEx\MaskeTakip\Workaround\obj\Debug\Workaround.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CSharpEx\MaskeTakip\Workaround\obj\Debug\Workaround.exe
+C:\Users\HP\Desktop\CSharpEx\MaskeTakip\Workaround\obj\Debug\Workaround.pdb
